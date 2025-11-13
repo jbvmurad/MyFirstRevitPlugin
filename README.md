@@ -23,14 +23,20 @@ Layihələrdəki elementləri analiz edin, müqayisə edin və nəticələri **E
 xml
 Copy code
 <RevitAddIns>
-  <AddIn Type="Command">
-    <Name>BIM Quantity Manager</Name>
-    <Assembly>C:\ProgramData\Autodesk\Revit\Addins\2024\BIMQuantityManager\BIMQuantityManager.dll</Assembly>
-    <AddInId>87654321-4321-4321-4321-CBA987654321</AddInId>
-    <FullClassName>BIMQuantityManager.Commands.ExportBimQuantityCommand</FullClassName>
-    <VendorId>MURAD</VendorId>
-  </AddIn>
+	<!-- BIM Quantity Manager Command -->
+	<AddIn Type="Command">
+		<Name>BIM Quantity Manager</Name>
+		<Assembly>C:\Users\Murad\Desktop\Plugin\BIMQuantityManager\BIMQuantityManager\bin\Debug\net8.0-windows\BIMQuantityManager.dll</Assembly>
+		<AddInId>87654321-4321-4321-4321-CBA987654321</AddInId>
+		<FullClassName>BIMQuantityManager.Commands.ExportBimQuantityCommand</FullClassName>
+		<Text>BIM Quantity Manager</Text>
+		<Description>Show type quantities in different views</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<VendorId>MURAD</VendorId>
+		<VendorDescription>Murad Plugin</VendorDescription>
+	</AddIn>
 </RevitAddIns>
+
 4️⃣ Revit-i yenidən başladın
 5️⃣ Add-Ins → External Tools → BIM Quantity Manager seçin
 
