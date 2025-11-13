@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\MyPlugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4084DCBE-6EFA-8A85-8F0F-DA217D467C38}|MyPlugin\\BIM Quantity Manager.csproj|c:\\users\\user\\desktop\\myplugin\\myplugin\\myplugin.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4084DCBE-6EFA-8A85-8F0F-DA217D467C38}|MyPlugin\\BIM Quantity Manager.csproj|solutionrelative:myplugin\\myplugin.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyPlugin.addin",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MyPlugin\\MyPlugin\\MyPlugin.addin",
+              "RelativeDocumentMoniker": "MyPlugin\\MyPlugin.addin",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MyPlugin\\MyPlugin\\MyPlugin.addin",
+              "RelativeToolTip": "MyPlugin\\MyPlugin.addin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2025-11-04T05:52:06.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

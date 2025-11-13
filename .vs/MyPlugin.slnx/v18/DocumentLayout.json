@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Murad\\Desktop\\Plugin\\MyPlugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4084DCBE-6EFA-8A85-8F0F-DA217D467C38}|MyPlugin\\MyPlugin.csproj|c:\\users\\murad\\desktop\\plugin\\myplugin\\myplugin\\views\\typequantitysummaryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4084DCBE-6EFA-8A85-8F0F-DA217D467C38}|MyPlugin\\MyPlugin.csproj|solutionrelative:myplugin\\views\\typequantitysummaryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4084DCBE-6EFA-8A85-8F0F-DA217D467C38}|MyPlugin\\MyPlugin.csproj|c:\\users\\murad\\desktop\\plugin\\myplugin\\myplugin\\commands\\exporttypequantitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4084DCBE-6EFA-8A85-8F0F-DA217D467C38}|MyPlugin\\MyPlugin.csproj|solutionrelative:myplugin\\commands\\exporttypequantitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4084DCBE-6EFA-8A85-8F0F-DA217D467C38}|MyPlugin\\MyPlugin.csproj|c:\\users\\murad\\desktop\\plugin\\myplugin\\myplugin\\views\\typequantitysummaryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4084DCBE-6EFA-8A85-8F0F-DA217D467C38}|MyPlugin\\MyPlugin.csproj|solutionrelative:myplugin\\views\\typequantitysummaryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4084DCBE-6EFA-8A85-8F0F-DA217D467C38}|MyPlugin\\MyPlugin.csproj|c:\\users\\murad\\desktop\\plugin\\myplugin\\myplugin\\viewmodels\\typequantityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4084DCBE-6EFA-8A85-8F0F-DA217D467C38}|MyPlugin\\MyPlugin.csproj|solutionrelative:myplugin\\viewmodels\\typequantityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportTypeQuantityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\Plugin\\MyPlugin\\MyPlugin\\Commands\\ExportTypeQuantityCommand.cs",
+              "RelativeDocumentMoniker": "MyPlugin\\Commands\\ExportTypeQuantityCommand.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\Plugin\\MyPlugin\\MyPlugin\\Commands\\ExportTypeQuantityCommand.cs",
+              "RelativeToolTip": "MyPlugin\\Commands\\ExportTypeQuantityCommand.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:52:06.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypeQuantityViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\Plugin\\MyPlugin\\MyPlugin\\ViewModels\\TypeQuantityViewModel.cs",
+              "RelativeDocumentMoniker": "MyPlugin\\ViewModels\\TypeQuantityViewModel.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\Plugin\\MyPlugin\\MyPlugin\\ViewModels\\TypeQuantityViewModel.cs",
+              "RelativeToolTip": "MyPlugin\\ViewModels\\TypeQuantityViewModel.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAAwDIBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:51:42.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeQuantitySummaryView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\Plugin\\MyPlugin\\MyPlugin\\Views\\TypeQuantitySummaryView.xaml.cs",
+              "RelativeDocumentMoniker": "MyPlugin\\Views\\TypeQuantitySummaryView.xaml.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\Plugin\\MyPlugin\\MyPlugin\\Views\\TypeQuantitySummaryView.xaml.cs",
+              "RelativeToolTip": "MyPlugin\\Views\\TypeQuantitySummaryView.xaml.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAAwCoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:44:51.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TypeQuantitySummaryView.xaml",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\Plugin\\MyPlugin\\MyPlugin\\Views\\TypeQuantitySummaryView.xaml",
+              "RelativeDocumentMoniker": "MyPlugin\\Views\\TypeQuantitySummaryView.xaml",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\Plugin\\MyPlugin\\MyPlugin\\Views\\TypeQuantitySummaryView.xaml",
+              "RelativeToolTip": "MyPlugin\\Views\\TypeQuantitySummaryView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-03T19:23:01.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

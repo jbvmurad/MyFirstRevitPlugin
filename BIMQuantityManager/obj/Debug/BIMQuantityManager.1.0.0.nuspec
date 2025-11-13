@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BIMQuantityManager</id>
+    <version>1.0.0</version>
+    <authors>BIMQuantityManager</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="ClosedXML" version="0.105.0" exclude="Build,Analyzers" />
+        <dependency id="DocumentFormat.OpenXml" version="3.3.0" exclude="Build,Analyzers" />
+        <dependency id="EPPlus" version="8.2.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.4" exclude="Build,Analyzers" />
+        <dependency id="Revit_All_Main_Versions_API_x64" version="2026.0.0" exclude="Build,Analyzers" />
+        <dependency id="itext.bouncy-castle-adapter" version="9.3.0" exclude="Build,Analyzers" />
+        <dependency id="itext7" version="9.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0-windows7.0/Resources/Languages/de-DE.json" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/Languages/en-US.json" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/Languages/ru-RU.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Murad\Desktop\Plugin\BIMQuantityManager\BIMQuantityManager\bin\Debug\net8.0-windows\BIMQuantityManager.dll" target="lib\net8.0-windows7.0\BIMQuantityManager.dll" />
+    <file src="C:\Users\Murad\Desktop\Plugin\BIMQuantityManager\BIMQuantityManager\Resources\Languages\de-DE.json" target="content\Resources\Languages\de-DE.json" />
+    <file src="C:\Users\Murad\Desktop\Plugin\BIMQuantityManager\BIMQuantityManager\Resources\Languages\de-DE.json" target="contentFiles\any\net8.0-windows7.0\Resources\Languages\de-DE.json" />
+    <file src="C:\Users\Murad\Desktop\Plugin\BIMQuantityManager\BIMQuantityManager\Resources\Languages\en-US.json" target="content\Resources\Languages\en-US.json" />
+    <file src="C:\Users\Murad\Desktop\Plugin\BIMQuantityManager\BIMQuantityManager\Resources\Languages\en-US.json" target="contentFiles\any\net8.0-windows7.0\Resources\Languages\en-US.json" />
+    <file src="C:\Users\Murad\Desktop\Plugin\BIMQuantityManager\BIMQuantityManager\Resources\Languages\ru-RU.json" target="content\Resources\Languages\ru-RU.json" />
+    <file src="C:\Users\Murad\Desktop\Plugin\BIMQuantityManager\BIMQuantityManager\Resources\Languages\ru-RU.json" target="contentFiles\any\net8.0-windows7.0\Resources\Languages\ru-RU.json" />
+  </files>
+</package>
