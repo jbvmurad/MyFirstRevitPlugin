@@ -19,8 +19,8 @@ Layihələrdəki elementləri analiz edin, müqayisə edin və nəticələri **E
 1️⃣ ZIP arxivini endirin və çıxarın  
 2️⃣ Faylları bu qovluğa yerləşdirin: C:\ProgramData\Autodesk\Revit\Addins\2024\BIMQuantityManager\
 3️⃣ .addin faylını əlavə edin:
-4️⃣ Revit-i yenidən başladın
-5️⃣ Add-Ins → External Tools → BIM Quantity Manager seçin
+4️⃣ Revit-i yenidən başladın:
+5️⃣ Add-Ins → External Tools → BIM Quantity Manager seçin:
 
 🧱 Dəstəklənən Kateqoriyalar
 🧱 Divarlar | 🚪 Qapılar | 🪟 Pəncərələr | 🏢 Döşəmələr | 🏠 Damlar | 🪜 Pilləkənlər | 🪑 Mebel | ⚡ Elektrik avadanlıqları və s.
